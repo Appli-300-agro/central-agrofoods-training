@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "central-agrofoods-training",
+    "site": "central-agrofoods-traini-jifgo",
     "public": "dist",
     "ignore": [
       "firebase.json",
